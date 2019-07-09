@@ -1,1 +1,0 @@
-print ("welcome to Kirirom Institute of Technology");
